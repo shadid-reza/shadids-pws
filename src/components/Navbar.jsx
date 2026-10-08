@@ -28,7 +28,7 @@ const Navbar = () => {
             {isHomePage ? (
               <>
                 <a
-                  href="mailto:hmshadid25@gmail.com"
+                  href="mailto:shadidoffice@gmail.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className={styles.socialIcon}
