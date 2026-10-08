@@ -165,5 +165,14 @@ export const newsList = [
         I took the IELTS test and achieved an overall band score of 7.5.
       </>
     ),
+  },
+   {
+    id: 17,
+    date: "Aug 3, 2026",
+    text: (
+      <>
+        Started my journey as a Master of Computer Science Student in Adelaide University.
+      </>
+    ),
   }
 ];

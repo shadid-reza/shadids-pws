@@ -1,5 +1,11 @@
 export const educationList = [
   {
+    year: "2026 - 2028 (expected)",
+    degree: "Master of Computer Science",
+    school: "Adelaide Univeristy, Adelaide, SA 5000, Australia",
+    result: "CGPA: Pending",
+  },
+  {
     year: "2020 - 2024",
     degree: "B.Sc. in Computer Science and Engineering (CSE)",
     school: "Islamic University of Technology (IUT), Gazipur, Bangladesh",

@@ -16,7 +16,7 @@ const GeneralInfo = () => {
             </tr>
             <tr>
               <td className="font-bold pr-4 py-2 text-right">Contact</td>
-              <td className="pl-2 py-2">hmshadid25@gmail.com</td>
+              <td className="pl-2 py-2">shadidoffice@gmail.com</td>
             </tr>
             <tr>
               <td className="font-bold pr-4 py-2 text-right">Languages</td>

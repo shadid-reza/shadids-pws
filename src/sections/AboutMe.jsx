@@ -9,7 +9,7 @@ const AboutMe = () => {
         {/* Name Section */}
         <div className="mb-6 text-center md:text-left">
           <h1 className="text-3xl font-bold text-gray-900">H M Shadid Reza Chowdhury</h1>
-          <p className="text-sm text-gray-600">Full Stack Software Engineer | Aspiring PhD Researcher</p>
+          <p className="text-sm text-gray-600">Master of Computer Science Student | Aspiring PhD Researcher</p>
         </div>
 
         {/* Image + Paragraph */}
@@ -31,9 +31,10 @@ const AboutMe = () => {
           {/* Paragraph Content */}
           <div className="md:flex-1">
             <p className="text-lg leading-relaxed text-justify">
-              I’m a Software Engineer with over a year of experience developing scalable web applications at{" "}
-              <a href="https://hawarit.com" target="_blank" rel="noopener noreferrer">HawarIT Limited</a>. I work mostly with ASP .NET Core, DevOps, making systems secure by design.{" "}
-              I hold a B.Sc. in <a href="https://cse.iutoic-dhaka.edu/" target="_blank" rel="noopener noreferrer">Computer Science and Engineering</a>{" "}
+
+              I’m a <a href="https://adelaide.edu.au/study/degrees/2026/master-of-computer-science/int/?student=current"target="_blank" rel="noopener noreferrer">Master of Computer Science</a> student at <a href="https://adelaide.edu.au/"target="_blank" rel="noopener noreferrer">Adelaide University</a>{" "} 
+              with two years of experience as a Software Engineer.
+              I completed my Bachelor in Science in <a href="https://cse.iutoic-dhaka.edu/" target="_blank" rel="noopener noreferrer">Computer Science and Engineering</a>{" "}
               from <a href="https://www.iutoic-dhaka.edu/" target="_blank" rel="noopener noreferrer">Islamic University of Technology (IUT)</a>, Dhaka, Bangladesh.
             </p>
 

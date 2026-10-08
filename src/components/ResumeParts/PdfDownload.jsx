@@ -1,5 +1,5 @@
 import React from "react";
-import MyCV from "../../assets/pdf/Shadid_Reza_CV.pdf";
+import MyCV from "../../assets/pdf/Shadid_Reza_CV-Oct26.pdf";
 import pdfIcon from "../../assets/photos/pdf_icon.svg";
 
 const PdfDownload = () => {

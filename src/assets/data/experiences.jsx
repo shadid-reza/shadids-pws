@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     startDate: "2024-07",
-    endDate: "Present",
+    endDate: "2026-06",
     location: "Dhaka, Bangladesh",
     position: "Software Engineer",
     name: "Hawar IT Limited",
